@@ -1,2 +1,6 @@
 
 *.zip
+
+.ipynb_checkpoints/Credit Data Exploratory Analysis-checkpoint.ipynb
+
+.ipynb_checkpoints/Credit Card Data Cleaning and Label Construction-checkpoint.ipynb
